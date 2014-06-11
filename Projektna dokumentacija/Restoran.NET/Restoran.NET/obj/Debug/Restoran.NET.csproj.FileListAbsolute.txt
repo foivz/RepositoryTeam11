@@ -9,3 +9,6 @@ c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\o
 c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
 c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
 C:\Users\Dario\Documents\Visual Studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.OdabirPica.resources
+D:\Documents\GitHub\RepositoryTeam11\Projektna dokumentacija\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+D:\Documents\GitHub\RepositoryTeam11\Projektna dokumentacija\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+D:\Documents\GitHub\RepositoryTeam11\Projektna dokumentacija\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
