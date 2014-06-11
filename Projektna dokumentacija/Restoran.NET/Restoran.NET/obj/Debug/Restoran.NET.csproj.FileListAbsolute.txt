@@ -1,0 +1,11 @@
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+C:\Users\Dario\Documents\Visual Studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.OdabirPica.resources
