@@ -42,24 +42,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Restoran.NET.exe" size="207360">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Restoran.NET.exe" size="209920">
       <assemblyIdentity name="Restoran.NET" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>JMc01FjTWa3/n8BIQaM8AxGOsU93AaYUHCqKYvGBfuo=</dsig:DigestValue>
+        <dsig:DigestValue>v9t8t22SfyPGu4rTejC2kWDnuCAOeWEAe88HXIJKevM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Restoran.NET.exe.config" size="835">
+  <file name="Restoran.NET.exe.config" size="865">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>XaNG5tFhhp/BNDk/HnlZhU9WcnTa2xSYceVuzekYkHA=</dsig:DigestValue>
+      <dsig:DigestValue>hIC0/H27ym8YwVPQRZqREFgmrLDrQKIZ/gGPI5XScVI=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

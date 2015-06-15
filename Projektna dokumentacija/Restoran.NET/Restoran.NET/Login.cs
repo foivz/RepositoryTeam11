@@ -14,25 +14,43 @@ namespace Restoran.NET
     {
         public Login()
         {
-            InitializeComponent();
+            InitializeComponent(); 
+            Lozinka.PasswordChar = '*';
             Korisnicko_ime.Focus();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (Korisnicko_ime.Text == ("kuhar") && Lozinka.Text == ("kuhar") || Korisnicko_ime.Text == ("zaposlenik") && Lozinka.Text == ("zaposlenik"))
+            if (Korisnicko_ime.Text == ("kuhar") && Lozinka.Text == ("kuhar"))
             {
-                GlavnaForma Glavna = new GlavnaForma();
-                Glavna.Show();
-                
+                ((GlavnaForma)this.MdiParent).narudžbeToolStripMenuItem.Visible = true;
+                ((GlavnaForma)this.MdiParent).odjavaToolStripMenuItem.Visible = true;
+                ((GlavnaForma)this.MdiParent).loginToolStripMenuItem.Visible = false;
+                ((GlavnaForma)this.MdiParent).odjavaToolStripMenuItem.Text = "Odjava (kuhar)";
+                this.Close();
+            }
+
+            else if (Korisnicko_ime.Text == ("zaposlenik") && Lozinka.Text == ("zaposlenik"))
+            {
+                ((GlavnaForma)this.MdiParent).artikliToolStripMenuItem.Visible = true;
+                ((GlavnaForma)this.MdiParent).racuniToolStripMenuItem.Visible = true;
+                ((GlavnaForma)this.MdiParent).odjavaToolStripMenuItem.Visible = true;
+                ((GlavnaForma)this.MdiParent).loginToolStripMenuItem.Visible = false;
+                ((GlavnaForma)this.MdiParent).narudžbeToolStripMenuItem.Visible = true;
+                ((GlavnaForma)this.MdiParent).zaposleniciToolStripMenuItem.Visible = true;
+                ((GlavnaForma)this.MdiParent).odjavaToolStripMenuItem.Text = "Odjava (zaposlenik)";
+                this.Close();
             }
 
             else
             {
-                MessageBox.Show("Unijeli ste pogresne podatke, pokusajte ponovo!");
-                Korisnicko_ime.Text = " ";
-                Lozinka.Text = " ";
+                MessageBox.Show("Unijeli ste pogrešne podatke, pokušajte ponovo!");
+                Korisnicko_ime.Focus();
+                Korisnicko_ime.Text = "";
+                Lozinka.Text = "";
             }
         }
+            
+        
     }
 }

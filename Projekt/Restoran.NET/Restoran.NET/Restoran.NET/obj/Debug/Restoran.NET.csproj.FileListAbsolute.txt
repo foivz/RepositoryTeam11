@@ -114,3 +114,19 @@ D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET
 D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
 D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.StavkeRacuna.resources
 D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmArtikli.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeArtikla.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavniDioRacuna.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Narudzbe.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.PregledRacuna.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.StavkeRacuna.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache

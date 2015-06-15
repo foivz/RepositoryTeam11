@@ -20,7 +20,9 @@ namespace Restoran.NET
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            Login login = new Login();
+            login.MdiParent = this;
+            login.Show();
         }
 
         private void loginToolStripMenuItem_Click(object sender, EventArgs e)
@@ -30,18 +32,11 @@ namespace Restoran.NET
             login.Show();
         }
 
-        private void odabirPićaToolStripMenuItem_Click(object sender, EventArgs e)
+        private void odjavaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            OdabirPica pice = new OdabirPica();
-            pice.MdiParent = this;
-            pice.Show();
+            Application.Restart();
         }
 
-        private void odabirJelaToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            OdabirJela jelo = new OdabirJela();
-            jelo.MdiParent = this;
-            jelo.Show();
-        }
+
     }
 }

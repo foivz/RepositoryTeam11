@@ -56,18 +56,6 @@
     <Compile Include="Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="OdabirJela.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="OdabirJela.Designer.cs">
-      <DependentUpon>OdabirJela.cs</DependentUpon>
-    </Compile>
-    <Compile Include="OdabirPica.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="OdabirPica.Designer.cs">
-      <DependentUpon>OdabirPica.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GlavnaForma.resx">
@@ -75,9 +63,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="OdabirPica.resx">
-      <DependentUpon>OdabirPica.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

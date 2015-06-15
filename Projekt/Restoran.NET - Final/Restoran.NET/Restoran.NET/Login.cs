@@ -17,6 +17,9 @@ namespace Restoran.NET
             InitializeComponent();
             Lozinka.PasswordChar = '*';
             Korisnicko_ime.Focus();
+
+            //Korisnicko_ime.Text = "zaposlenik";
+            //Lozinka.Text = "zaposlenik";
         }
 
         

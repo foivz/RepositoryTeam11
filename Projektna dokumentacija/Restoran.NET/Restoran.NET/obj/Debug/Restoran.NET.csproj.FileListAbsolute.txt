@@ -12,3 +12,10 @@ C:\Users\Dario\Documents\Visual Studio 2012\Projects\Restoran.NET\Restoran.NET\o
 D:\Documents\GitHub\RepositoryTeam11\Projektna dokumentacija\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
 D:\Documents\GitHub\RepositoryTeam11\Projektna dokumentacija\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
 D:\Documents\GitHub\RepositoryTeam11\Projektna dokumentacija\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+D:\Documents\GitHub\RepositoryTeam11\Projektna dokumentacija\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\RepositoryTeam11\Projektna dokumentacija\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+D:\Documents\GitHub\RepositoryTeam11\Projektna dokumentacija\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+D:\Documents\GitHub\RepositoryTeam11\Projektna dokumentacija\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+D:\Documents\GitHub\RepositoryTeam11\Projektna dokumentacija\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+D:\Documents\GitHub\RepositoryTeam11\Projektna dokumentacija\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+D:\Documents\GitHub\RepositoryTeam11\Projektna dokumentacija\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
